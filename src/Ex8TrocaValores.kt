@@ -15,5 +15,5 @@ fun main() {
     Y = Z
     Z = 0
 
-    println("Troca de valores efetuada com sucesso. Agora X vale "+X+", e Y vale "+Y)
+    println("Troca de valores efetuada com sucesso. Agora X = $X, e Y = $Y")
 }
