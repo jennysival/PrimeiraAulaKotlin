@@ -10,5 +10,5 @@ fun main(){
 
     val area = base*altura
 
-    println("A área do retângulo é: "+area)
+    println("A área do retângulo é: $area")
 }

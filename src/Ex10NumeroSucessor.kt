@@ -6,5 +6,5 @@ fun main() {
 
     val sucessor = numero+1
 
-    println("O próximo número é: "+sucessor)
+    println("O próximo número é: $sucessor")
 }

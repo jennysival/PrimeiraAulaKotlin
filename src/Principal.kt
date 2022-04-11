@@ -5,5 +5,5 @@ fun main(){
 
     val resultado = numero-1
 
-    println("O antecessor de "+numero+" é: "+resultado)
+    println("O antecessor de $numero é: $resultado")
 }

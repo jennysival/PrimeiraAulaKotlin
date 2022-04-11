@@ -6,5 +6,5 @@ fun main(){
 
     val dias = idade*365
 
-    println("Você já viveu "+dias+" dias!")
+    println("Você já viveu $dias dias!")
 }

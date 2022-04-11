@@ -5,9 +5,9 @@ fun main(){
     val numDig = readln().toInt()
 
     if(numDig % 5 == 0){
-        println("O número "+numDig+" é múltiplo de 5")
+        println("O número $numDig é múltiplo de 5")
     }
     else{
-        println("O número "+numDig+" não é múltiplo de 5")
+        println("O número $numDig não é múltiplo de 5")
     }
 }

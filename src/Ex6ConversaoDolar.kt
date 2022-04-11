@@ -9,5 +9,5 @@ fun main(){
 
     val real = dolar*cotacao
 
-    println("Você acabou de converter US$"+dolar+" em R$"+real)
+    println("Você acabou de converter US$$dolar em R$$real")
 }
