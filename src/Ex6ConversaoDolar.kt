@@ -2,10 +2,10 @@
 //para reais. Considere a cotação do dolar atual
 
 fun main(){
-    val cotacao = 4.75
+    val cotacao = 4.75f
 
     println("Digite quantos dólares(US$) deseja converter:")
-    val dolar = readln().toDouble()
+    val dolar = readln().toFloat()
 
     val real = dolar*cotacao
 
